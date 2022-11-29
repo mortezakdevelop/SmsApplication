@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SMSApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">Logo</string>
+    <string name="_0912">0912</string>
+    <string name="confirm_code">کد تایید را وارد نمایید</string>
+    <string name="confirm_code_for">کد تایید برای شماره ی</string>
+    <string name="send">پیامک شد.</string>
+    <string name="check_connection">لطفا اینرنت را بررسی کنید</string>
+</resources>
